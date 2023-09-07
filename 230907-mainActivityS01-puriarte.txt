@@ -1,2 +1,13 @@
 Hi, My name is Philip Ronin Villanueva Uriarte.
 
+During my summer OJT I worked as a Mobile Developer Intern at Highly Succeed
+Inc. where I gained practical experience in Android  mobile development using
+using Kotlin and Android Studio. Beyond coding, coding, I assumed a
+leadership role as an intern team lead, overseeing project management, 
+attendance, and reporting.
+
+For hobbies I like to read books and play video games. My favorite book series
+is "A Song of Ice and Fire" by George R.R. Martin. My favorite game is Dark 
+Souls 1. I've been listening to a wide variety of music lately but the band 
+whose music I never get tired of is Paramore. My favorite movies are "Her", 
+"La La Land", and "Inception".
